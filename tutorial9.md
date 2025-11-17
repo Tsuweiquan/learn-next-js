@@ -29,5 +29,6 @@ Load the url
 
 if you use /docs/[[...slug]]/page.tsx
 ```
-return 
+return <h1>Docs Home Page</h1>; 
 ```
+
