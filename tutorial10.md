@@ -18,7 +18,7 @@ if (parseInt(reviewId) > 1000) {
 ```
 Put the `not-found.tsx` file in the same folder
 
-NotFound component does not accept props
+NotFound component does not accept props, to generate dynamically, need to use the `usePathname`
 
 ```
 "use client";
